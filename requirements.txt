@@ -1,0 +1,22 @@
+# Core data science libraries (Open Source)streamlit==1.32.2
+
+numpy>=1.24.0pandas==2.2.1
+
+pandas>=2.0.0numpy==1.26.4
+
+scikit-learn>=1.3.0plotly==5.20.0
+
+tensorflow==2.16.1
+
+# Deep learning (Open Source)scikit-learn==1.4.2
+tensorflow>=2.15.0
+
+# Visualization (Open Source)
+plotly>=5.15.0
+
+# Web application (Open Source)
+streamlit>=1.28.0
+
+# Development and testing (Open Source)
+pytest>=7.4.0
+python-dotenv>=1.0.0
